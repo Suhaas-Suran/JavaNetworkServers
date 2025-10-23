@@ -41,7 +41,7 @@ This repository contains three Java projects demonstrating **network programming
 - IDE (Optional: IntelliJ, VSCode) or command line terminal
 
 ### Running a Project
-1.  Navigate to the project folder (e.g., `SingleThreaded/src/SingleThreaded`)
+1.  Navigate to the project folder 
 2.  Compile the Java files:
     ```bash
     javac Server.java Client.java
